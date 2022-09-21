@@ -2,7 +2,7 @@
 
 同济 建筑 ECADI
 
-[鸢尾云](irides.games)
+[鸢尾云](https://irides.games/)
 
 <!---
 DViridescent/DViridescent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
