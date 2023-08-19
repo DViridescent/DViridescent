@@ -1,4 +1,4 @@
-> 呆维Iridescent
+> 呆维iridescent
 
 　同济　|　ECADI
   
