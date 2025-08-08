@@ -1,4 +1,4 @@
 I'm ...
-- Architecture - 建筑师
-- Architecture - 架构师
-- Architecture - INTJ
+- Architect - 建筑师
+- Architect - 架构师
+- Architect - INTJ
