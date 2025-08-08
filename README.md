@@ -1,10 +1,9 @@
 > 呆维iridescent
 
-　同济　|　ECADI
-  
-建筑师　|　程序员
+- Architecture - 建筑师
+- Architecture - 架构师
+- Architecture - INTJ
 
 ---
 
 *个人网站：[鸢尾云](https://iridescent.space/)*
-
